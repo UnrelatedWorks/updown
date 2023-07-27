@@ -3,7 +3,7 @@
 // Set the URLs to check
 $urls = array(
     "https://unrelated.works",
-    "https://moviesunchained.unrelated.works"
+    "https://fellas.media"
     );
 
 // Set the log file path
